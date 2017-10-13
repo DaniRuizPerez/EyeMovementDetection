@@ -18,11 +18,13 @@ You can take a look at the project report (in Spanish) [here](https://github.com
 The code is in the main.cpp file.
 
 ## Demonstration
-A proof of the algorithm working can be viewed [here](https://github.com/DaniRuizPerez/EyeMovementDetection/blob/master/DEMONSTRATION.ogv).
+A proof of the algorithm working can be viewed [here](https://github.com/DaniRuizPerez/EyeMovementDetection/demonstration/blob/master/DEMONSTRATION.ogv).
 
 A snapshot of the video:
-<img src="https://github.com/DaniRuizPerez/EyeMovementDetection/blob/master/eyeleft.PNG" width="200">
-
+<img src="https://github.com/DaniRuizPerez/EyeMovementDetection/demonstratoin/blob/master/left.PNG" width="200">
+<img src="https://github.com/DaniRuizPerez/EyeMovementDetection/demonstratoin/blob/master/right.PNG" width="200">
+<img src="https://github.com/DaniRuizPerez/EyeMovementDetection/demonstratoin/blob/master/front.PNG" width="200">
+<img src="https://github.com/DaniRuizPerez/EyeMovementDetection/demonstratoin/blob/master/blink.PNG" width="200">
 
 ## Tools
 
