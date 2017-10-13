@@ -21,10 +21,10 @@ The code is in the main.cpp file.
 A proof of the algorithm working can be viewed [here](https://github.com/DaniRuizPerez/EyeMovementDetection/demonstration/blob/master/DEMONSTRATION.ogv).
 
 A snapshot of the video:
-<img src="https://github.com/DaniRuizPerez/EyeMovementDetection/demonstration/blob/master/left.PNG" width="200">
-<img src="https://github.com/DaniRuizPerez/EyeMovementDetection/demonstration/blob/master/right.PNG" width="200">
-<img src="https://github.com/DaniRuizPerez/EyeMovementDetection/demonstration/blob/master/front.PNG" width="200">
-<img src="https://github.com/DaniRuizPerez/EyeMovementDetection/demonstration/blob/master/blink.PNG" width="200">
+<img src="https://github.com/DaniRuizPerez/EyeMovementDetection/blob/master/demonstration/left.PNG" width="200">
+<img src="https://github.com/DaniRuizPerez/EyeMovementDetection/blob/master/demonstration/right.PNG" width="200">
+<img src="https://github.com/DaniRuizPerez/EyeMovementDetection/blob/master/demonstration/front.PNG" width="200">
+<img src="https://github.com/DaniRuizPerez/EyeMovementDetection/blob/master/demonstration/blink.PNG" width="200">
 
 ## Tools
 
