@@ -20,6 +20,8 @@ The code is in the main.cpp file.
 ## Demonstration
 A proof of the algorithm working can be viewed [here](https://github.com/DaniRuizPerez/EyeMovementDetection/blob/master/DEMONSTRATION.ogv).
 
+![A snapshot of the video:](https://github.com/DaniRuizPerez/EyeMovementDetection/blob/master/eyeleft.PNG?raw=true)
+
 ## Tools
 
 The project was developed with the following tools
