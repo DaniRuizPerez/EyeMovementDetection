@@ -30,6 +30,7 @@ The project was developed with the following tools
 
 - C++
 - Netbeans
+- OpenCV
 
 
 ## Contact
